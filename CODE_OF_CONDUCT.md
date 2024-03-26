@@ -98,6 +98,8 @@ available at https://geekfeminism.org/about/code-of-conduct/
 
 ## Version History
 
+* v1.3 New members were added from a Governing Board vote in January 2024
+
 * v1.2 update Code of Conduct Team based on [vote results](https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_eb0e86af55a181a9) on June 12, 2018
 
 * v1.1 proposed on April 2, 2018; accepted by CHAOSS Governing Board on May 1, 2018
