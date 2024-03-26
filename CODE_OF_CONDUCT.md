@@ -80,10 +80,11 @@ elected by the community every two years or when needed.
 ## Who to Contact
 
 The following people comprise the CHAOSS Code of Conduct Team and are the only 
-recipients of <chaoss-inclusion@lists.linuxfoundation.org>:
- - Nicole Huesman
- - Armstrong Foundjem
+recipients of <chaoss-conduct@googlegroups.com>:
+ - MaryBlessing Okolie 
  - Georg Link
+ - Anita Ihuman
+
 
 ## Attribution
 
