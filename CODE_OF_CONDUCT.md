@@ -56,7 +56,7 @@ further defined and clarified by project maintainers.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the CHAOSS Code of Conduct Team at 
-<chaoss-inclusion@lists.linuxfoundation.org>. All
+<chaoss-conduct@googlegroups.com>. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -80,10 +80,11 @@ elected by the community every two years or when needed.
 ## Who to Contact
 
 The following people comprise the CHAOSS Code of Conduct Team and are the only 
-recipients of <chaoss-inclusion@lists.linuxfoundation.org>:
- - Nicole Huesman
- - Armstrong Foundjem
+recipients of <chaoss-conduct@googlegroups.com>:
+ - MaryBlessing Okolie 
  - Georg Link
+ - Anita Ihuman
+
 
 ## Attribution
 
@@ -96,6 +97,8 @@ available at https://geekfeminism.org/about/code-of-conduct/
 [gf-homepage]: https://geekfeminism.org/
 
 ## Version History
+
+* v1.3 New members were added from a Governing Board vote in January 2024
 
 * v1.2 update Code of Conduct Team based on [vote results](https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_eb0e86af55a181a9) on June 12, 2018
 
